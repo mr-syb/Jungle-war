@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp服务端", "Tcp服务端\Tcp服务端.csproj", "{1361CEA2-03D9-49AC-908C-98B7781C093F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tcp客户端", "Tcp客户端\Tcp客户端.csproj", "{E5A89162-25BA-4696-AF65-C6B3412C763C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1361CEA2-03D9-49AC-908C-98B7781C093F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1361CEA2-03D9-49AC-908C-98B7781C093F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1361CEA2-03D9-49AC-908C-98B7781C093F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1361CEA2-03D9-49AC-908C-98B7781C093F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A89162-25BA-4696-AF65-C6B3412C763C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A89162-25BA-4696-AF65-C6B3412C763C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A89162-25BA-4696-AF65-C6B3412C763C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A89162-25BA-4696-AF65-C6B3412C763C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF81AEC8-1531-485D-937C-1CB06C57FB97}
+	EndGlobalSection
+EndGlobal
